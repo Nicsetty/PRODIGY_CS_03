@@ -34,12 +34,6 @@ This is a simple Python-based GUI tool that assesses the strength of a password 
 4. **Feedback**:
    - The tool will provide suggestions if the password does not meet certain criteria (e.g., if it is too short, lacks special characters, etc.).
 
-## Example
-
-Here's a screenshot of the tool in action:
-
-![Password Strength Checker Screenshot](path/to/screenshot.png)
-
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
